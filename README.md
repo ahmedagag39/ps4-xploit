@@ -1,1 +1,1 @@
-gameSTATION.githubn.io/900/
+gamestation.github.io/900/
